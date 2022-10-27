@@ -1,4 +1,4 @@
-#Exogenous saving economy model simulation
+# Exogenous saving economy model simulation
 
 In this program we construct and perform a simple simulation of an Exogenous productivity shock to an economy with Exogenous savings. We suppose that the productivity follows a AR1 process
 
